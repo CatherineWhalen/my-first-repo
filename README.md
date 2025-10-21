@@ -1,2 +1,3 @@
 # my-first-repo
-My First Repo
+Cat
+This repository is about neon signs.
